@@ -29,5 +29,6 @@ public class OpenGLTest extends Canvas{
 	public static void main(String[] args){
 		new OpenGLTest();
 		System.out.println("TEST");
+		System.out.println("TEST2");
 	}
 }
